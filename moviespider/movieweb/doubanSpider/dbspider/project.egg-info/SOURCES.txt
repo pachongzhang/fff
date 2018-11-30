@@ -1,0 +1,14 @@
+setup.py
+dbspider/SAD.py
+dbspider/__init__.py
+dbspider/items.py
+dbspider/middlewares.py
+dbspider/pipelines.py
+dbspider/settings.py
+dbspider/spiders/__init__.py
+dbspider/spiders/movie.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
